@@ -110,6 +110,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="OK.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Dane.txt" />
+    <Text Include="Zapis.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
